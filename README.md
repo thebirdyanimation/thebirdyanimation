@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thebirdyanimation
+- 👀 I’m interested in Python, C, Arduino, JAva ...
+- 🌱 I’m currently learning Java, C
